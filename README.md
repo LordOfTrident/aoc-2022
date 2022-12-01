@@ -1,0 +1,23 @@
+<p align="center">
+	<h1 align="center">Advent of Code 2022</h1>
+</p>
+<p align="center">
+	<a href="./LICENSE">
+		<img alt="License" src="https://img.shields.io/badge/license-GPL-blue?color=7aca00"/>
+	</a>
+	<a href="https://github.com/LordOfTrident/aoc-2022/issues">
+		<img alt="Issues" src="https://img.shields.io/github/issues/LordOfTrident/aoc-2022?color=0088ff"/>
+	</a>
+	<a href="https://github.com/LordOfTrident/aoc-2022/pulls">
+		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/LordOfTrident/aoc-2022?color=0088ff"/>
+	</a>
+	<br><br><br>
+	<img width="500px" src="res/thumbnail.png"/>
+</p>
+
+## Introduction
+My [AOC 2022](https://adventofcode.com/2022) solutions
+
+| Day        | Language                                                              |
+| ---------- | --------------------------------------------------------------------- |
+| [01](./01) | [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) |
