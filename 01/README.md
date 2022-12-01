@@ -1,5 +1,5 @@
-<h1 align="center">[Day 01](https://adventofcode.com/2022/day/1)</h1>
-<p align="center">In Pascal</p>
+# [Day 01](https://adventofcode.com/2022/day/1)
+In Pascal
 
 <hr>
 
