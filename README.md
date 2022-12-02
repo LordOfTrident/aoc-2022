@@ -21,3 +21,4 @@ My [AOC 2022](https://adventofcode.com/2022) solutions
 | Day        | Language                                                              |
 | ---------- | --------------------------------------------------------------------- |
 | [01](./01) | [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) |
+| [02](./02) | [C](https://en.wikipedia.org/wiki/C_(programming_language))           |

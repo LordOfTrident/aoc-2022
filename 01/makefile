@@ -1,14 +1,16 @@
-SRC = main.pas
-APP = app
+SRC = $(wildcard ./*.pas)
+BIN = $(basename $(wildcard ./*.pas))
 
 FPC = fpc
 FPC_FLAGS = -O4
 
-compile:
-	$(FPC) $(FPC_FLAGS) $(SRC) -o$(APP)
+compile: $(BIN)
+
+%: %.pas
+	$(FPC) $(FPC_FLAGS) $< -o$@
 
 clean:
-	rm -f *.o $(APP)
+	rm -f *.o $(BIN)
 
 all:
 	@echo compile, clean

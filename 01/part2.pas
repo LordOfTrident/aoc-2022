@@ -1,4 +1,4 @@
-program AOC_01;
+program AOC_01_2;
 
 uses sysutils;
 
@@ -67,11 +67,7 @@ begin
 	end;
 
 	for i := 0 to Length(top3) - 1 do
-	begin
 		sum += top3[i];
 
-		WriteLn(i + 1, '. ', top3[i]);
-	end;
-
-	WriteLn(#10'Sum: ', sum);
+	WriteLn(sum);
 end.

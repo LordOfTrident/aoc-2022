@@ -8,5 +8,6 @@ Pascal was my first actual programming language, so i wanted to start off my fir
 ## Quickstart
 ```sh
 $ make
-$ ./app
+$ ./part1
+$ ./part2
 ```
