@@ -7,17 +7,13 @@
 enum type {
 	ROCK = 0,
 	PAPER,
-	SCISSORS,
-
-	TYPES_COUNT
+	SCISSORS
 };
 
 enum outcome {
 	LOST = 0,
 	DRAW,
-	WON,
-
-	OUTCOMES_COUNT
+	WON
 };
 
 enum type type_required_for_outcome(enum type p_opponent, enum outcome p_outcome) {
