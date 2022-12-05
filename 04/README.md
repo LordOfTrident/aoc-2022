@@ -8,6 +8,6 @@ so i wanted to already get over it
 
 ## Quickstart
 ```sh
-$ node part1
-$ node part2
+$ node part1.js
+$ node part2.js
 ```
