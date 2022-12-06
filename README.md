@@ -25,3 +25,4 @@ My [AOC 2022](https://adventofcode.com/2022) solutions
 | [03](./03) | [Go](https://go.dev/)                                                 |
 | [04](./04) | [JS](https://en.wikipedia.org/wiki/JavaScript)                        |
 | [05](./05) | [Lua](https://www.lua.org/)                                           |
+| [06](./06) | [C++](https://en.wikipedia.org/wiki/C%2B%2B)                          |
