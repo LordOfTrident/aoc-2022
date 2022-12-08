@@ -1,5 +1,5 @@
 SRC = $(wildcard ./*.c)
-BIN = $(basename $(wildcard ./*.c))
+BIN = $(basename $(SRC))
 
 CC       = gcc
 CC_VER   = c99

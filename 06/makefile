@@ -1,5 +1,5 @@
 SRC = $(wildcard ./*.cc)
-BIN = $(basename $(wildcard ./*.cc))
+BIN = $(basename $(SRC))
 
 CXX       = g++
 CXX_VER   = c++17

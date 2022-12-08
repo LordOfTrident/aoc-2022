@@ -1,5 +1,5 @@
 SRC = $(wildcard ./*.go)
-BIN = $(basename $(wildcard ./*.go))
+BIN = $(basename $(SRC))
 
 GO = go
 

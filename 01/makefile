@@ -1,5 +1,5 @@
 SRC = $(wildcard ./*.pas)
-BIN = $(basename $(wildcard ./*.pas))
+BIN = $(basename $(SRC))
 
 FPC = fpc
 FPC_FLAGS = -O4

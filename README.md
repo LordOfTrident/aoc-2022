@@ -27,3 +27,4 @@ My [AOC 2022](https://adventofcode.com/2022) solutions
 | [05](./05) | [Lua](https://www.lua.org/)                                           |
 | [06](./06) | [C++](https://en.wikipedia.org/wiki/C%2B%2B)                          |
 | [07](./07) | [Python](https://www.python.org/)                                     |
+| [08](./08) | [D](https://dlang.org/)                                               |
