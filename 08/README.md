@@ -8,6 +8,7 @@ so i decided to use it for the first time for this day
 
 ## Quickstart
 ```sh
-$ dub part1.d
-$ dub part2.d
+$ make
+$ ./part1
+$ ./part2
 ```
