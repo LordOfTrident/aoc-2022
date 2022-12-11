@@ -30,3 +30,4 @@ My [AOC 2022](https://adventofcode.com/2022) solutions
 | [08](./08) | [D](https://dlang.org/)                                               |
 | [09](./09) | [Zig](https://ziglang.org/)                                           |
 | [10](./10) | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))    |
+| [11](./11) | [Nim](https://nim-lang.org/)                                          |
