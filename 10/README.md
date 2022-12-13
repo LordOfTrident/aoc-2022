@@ -6,6 +6,8 @@ In C#
 The forbidden language. Since we are gonna be learning this language at school soon,
 i wanted to get a little familiar with it
 
+> TODO: Add a screenshot of the screen
+
 ## Quickstart
 ```sh
 $ make
