@@ -8,6 +8,7 @@ of silent bugs that i spent hours looking for, so be aware that i am not respons
 issues caused upon seeing the source code
 
 > TODO: Clean up the source code
+
 > TODO: Add a screenshot of the visualizer
 
 ## Quickstart
